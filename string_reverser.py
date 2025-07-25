@@ -14,5 +14,7 @@ def reverse_string(input_str: str) -> str:
         >>> reverse_string("Python")
         'nohtyP'
     """
+
+    qsdqsdq
     # TODO: Implement your solution here
     pass
